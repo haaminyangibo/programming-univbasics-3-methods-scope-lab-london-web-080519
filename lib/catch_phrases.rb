@@ -16,4 +16,4 @@ def any_phrase(phrase)
 end
 
 def link
-  puts = 
+  puts = "It's Dangerous To Go "
